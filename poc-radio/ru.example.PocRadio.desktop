@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=ru.example.PocRadio
+Exec=/usr/bin/ru.example.PocRadio
+Name=PoC Radio
+Name[ru]=PoC Рация
+
+[X-Application]
+Permissions=Internet
+OrganizationName=ru.example
+ApplicationName=PocRadio
+ExecDBus=/usr/bin/ru.example.PocRadio
